@@ -74,8 +74,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+!! UPDATE !! I will be on the job market for faculty positions starting in Fall 2023. Let's chat if you are hiring!
+<span style="color:blue">some *blue* text</span>.
 
 I am a final-year CS PhD student at Yale University, advised by __Ruzica Piskac__. My research interests lie in programming languages and software engineering. I focus on automatically preventing, detecting, and repairing crucial errors in programs across different fields such as systems, software engineering and CS education. I interned at RiSE and PROSE Team at Microsoft Research, mentored by __Shuvendu Lahiri__, __Sumit Gluwani__, and __Jose Cambronero__.
-
+I will be on the job market for faculty positions in 2023. Let's chat if you know an intersting opportunities!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
