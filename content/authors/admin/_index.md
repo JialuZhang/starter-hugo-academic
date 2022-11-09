@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-Jialu Zhang is a sixth-year CS PhD student at Yale University, advised by Ruzica Piskac. His research interests My research interests lie in programming languages and software engineering. I focus on automatically preventing, detecting, and repairing crucial errors in programs across different fields such as systems, software engineering and CS education. 
+Jialu Zhang is a sixth-year CS PhD student at Yale University, advised by Ruzica Piskac **sd**. His research interests My research interests lie in programming languages and software engineering. I focus on automatically preventing, detecting, and repairing crucial errors in programs across different fields such as systems, software engineering and CS education. 
 # In Summer 2021 and Summer 2022, he interned at RiSE and Prose Team at Microsoft Research, mentored by Sumit Gluwani, Shuvendu Lahiri, Todd Mytkowicz, Jose Cambronero and Vu Le.
 
 
