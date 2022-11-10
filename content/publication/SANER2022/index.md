@@ -1,5 +1,5 @@
 ---
-title: 'Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper)'
+title: 'Learning CI Configuration Correctness for Early Build Feedback'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,7 +8,7 @@ authors:
   - Mark Santolucito
   - admin
   - Ennan Zhai
-  - J{\"{u}}rgen Cito
+  - Jurgen Cito
   - Ruzica Piskac
 
 # Author notes (optional)
