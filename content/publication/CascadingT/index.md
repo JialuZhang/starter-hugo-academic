@@ -1,22 +1,19 @@
 ---
-title: 'Repairing Bugs in Python Assignments Using Large Language Models'
+title: 'Learning CI Configuration Correctness for Early Build Feedback'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jose Cambronero
-  - Sumit Gulwani
-  - Vu Le
+  - Yitan Wang
+  - Mark Santolucito
   - Ruzica Piskac
-  - Gustavo Soares
-  - Gust Verbruggen
 
 # Author notes (optional)
 
 
-date: '2022-01-21T00:00:00Z'
+date: '2020-02-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +29,7 @@ publication_types: ['1']
 publication: In Submission
 publication_short: In Submission
 
-abstract: Students often make mistakes on their introductory programming assignments as part of their learning process. Unfortunately, providing custom repairs for these mistakes can require a substantial amount of time and effort from class instructors. Automated program repair (APR) techniques can be used to synthesize such fixes. Prior work has explored the use of symbolic and neural techniques for APR in the education domain. Both types of approaches require either substantial engineering efforts or large amounts of data and training. We propose to use a large language model trained on code, such as Codex, to build an APR system – MMAPR – for introductory Python programming assignments. Our system can fix both syntactic and semantic mistakes by combining multi-modal prompts, iterative querying, test-case-based selection of few-shots, and program chunking. We evaluate MMAPR on 286 real student programs and compare to a baseline built by combining a state-of-the-art Python syntax repair engine, BIFI, and state-of-the-art Python semantic repair engine for student assignments, Refactory. We find that MMAPR can fix more programs and produce smaller patches on average.
+abstract: The decision tree is one of the most popular and classical machine learning models from the 1980s. However, in many practical applications, decision trees tend to generate decision paths with excessive depth. Long decision paths often cause overfitting problems, and make models difficult to interpret. With longer decision paths, inference is also more likely to fail when the data contain missing values. In this work, we propose a new tree model called Cascading Decision Trees to alleviate this problem. The key insight of Cascading Decision Trees is to separate the decision path and the explanation path. Our experiments show that on average, Cascading Decision Trees generate 63.38% shorter explanation paths, avoiding overfitting and thus achieve higher test accuracy. We also empirically demonstrate that Cascading Decision Trees have advantages in the robustness against missing values.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -59,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'MMAPR Overview'
+  caption: 'Cascading Tree Example'
   focal_point: ''
   preview_only: false
 
