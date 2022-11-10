@@ -80,4 +80,4 @@ Please feel free to drop me an email at jialu.zhang@yale.edu.
 
 I am a final-year CS PhD student at Yale University, advised by __Ruzica Piskac__. My research interests lie in programming languages and software engineering. I focus on automatically preventing, detecting, and repairing crucial errors in programs across different fields such as systems, software engineering and CS education. In summer 2021 and summer 2022, I interned at RiSE and PROSE Team at Microsoft Research, mentored by __Shuvendu Lahiri__, __Sumit Gluwani__, and __Jose Cambronero__.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
