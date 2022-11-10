@@ -56,7 +56,7 @@ url_video: 'https://www.youtube.com/watch?v=Ci8earoRIzE&t=488s'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'ConfigX Overview'
   focal_point: ''
   preview_only: false
 
