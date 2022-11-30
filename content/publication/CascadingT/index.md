@@ -1,5 +1,5 @@
 ---
-title: 'Learning CI Configuration Correctness for Early Build Feedback'
+title: 'Succinct Explanations with Cascading Decision Trees'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
