@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2206.01848.pdf'
+url_pdf: `content/publication/ASE2022/conference-paper.pdf`
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'ConfigX Overview'
+  caption: 'Clef Overview'
   focal_point: ''
   preview_only: false
 
