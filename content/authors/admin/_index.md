@@ -22,17 +22,17 @@ bio: My research interests lie in programming languages and software engineering
 
 # Interests to show in About widget
 interests:
-  - Program Analysis
+  - System Misconfigurations Detection
   - Automated Program Repair
   - Automated Feedback Generation for CS Education
-  - AI-assisted Programming
+  - Program Analysis
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science
       institution: Yale University
-      year: 2023 (Expected)
+      year: 2023 
     - course: BS in Electronic Engineering (IEEE Honor Class)
       institution: Shanghai Jiao Tong University
       year: 2017
