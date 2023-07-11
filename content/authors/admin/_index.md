@@ -33,7 +33,7 @@ education:
     - course: PhD in Computer Science
       institution: Yale University
       year: 2023 
-    - course: BS in Electronic Engineering (IEEE Honor Class)
+    - course: BS in Electrical and Computer Engineering (IEEE Honor Class)
       institution: Shanghai Jiao Tong University
       year: 2017
 
@@ -62,10 +62,14 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<span style="color:red">!! UPDATE !!</span> I am on job market for faculty positions starting in Fall 2023. [{{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}]
-
-Please feel free to drop me an email at jialu.zhang@yale.edu.
-
-I am a final-year CS PhD student at Yale University, advised by __Ruzica Piskac__. My research interests lie in programming languages and software engineering. I focus on automatically preventing, detecting, and repairing crucial errors in programs across different fields such as systems, software engineering and CS education. In summer 2021 and summer 2022, I interned at RiSE and PROSE Team at Microsoft Research, mentored by __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__.
 
 
+I am a researcher specializing in __Large Language Models (LLM) for Code__.
+To enhance the productivity of programmers, we designed __Gmerge__, the first LLM-powered tool to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. [{{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Paper:Gmerge{{< /staticref >}}]
+
+To promote CS Education, we developed [{{< staticref "uploads/PyDex.pdf" "newtab" >}}__Pydex__{{< /staticref >}}] (powered by Codex), the first unified tool with the capability to repair both syntactic and semantic errors in students' Python programs.
+
+I took a stab at competitive programming. In the past two years, I served as the coach for the Yale ICPC Team. Research-wise, we presented __Clef__, the first paper at the top PL/SE conference on competitive programming. Clef can repair challenging incorrect competitive-level programs, including non-functional properties such as time and memory limit exceeded errors.
+
+I received my PhD at Yale University. I am honored to be advised by __Ruzica Piskac__. 
+In the summer 2021 and 2022, I interned at Microsoft Research (MSR) on Large Language Models. I was mentored by __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__. We had a blast.
