@@ -22,10 +22,10 @@ bio: My research interests lie in programming languages and software engineering
 
 # Interests to show in About widget
 interests:
-  - System Misconfigurations Detection
+  - LLM for Programming Productitivy
+  - LLM for CS Education
+  - AI-assisting Programming
   - Automated Program Repair
-  - Automated Feedback Generation for CS Education
-  - Program Analysis
 
 # Education to show in About widget
 education:
@@ -65,11 +65,11 @@ highlight_name: true
 
 
 I am a researcher specializing in __Large Language Models (LLM) for Code__.
-To enhance the productivity of programmers, we designed __Gmerge__, the first LLM-powered tool to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. [{{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Paper:Gmerge{{< /staticref >}}]
+To enhance the productivity of programmers, we designed {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Paper:Gmerge{{< /staticref >}}, the first LLM-powered tool to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. 
 
-To promote CS Education, we developed [{{< staticref "uploads/PyDex.pdf" "newtab" >}}__Pydex__{{< /staticref >}}] (powered by Codex), the first unified tool with the capability to repair both syntactic and semantic errors in students' Python programs.
+To promote CS Education, we developed {{< staticref "uploads/PyDex.pdf" "newtab" >}}Pydex{{< /staticref >}}, the first LLM-powered tool with the capability to repair both syntactic and semantic errors in students' Python programs.
 
-I took a stab at competitive programming. In the past two years, I served as the coach for the Yale ICPC Team. Research-wise, we presented __Clef__, the first paper at the top PL/SE conference on competitive programming. Clef can repair challenging incorrect competitive-level programs, including non-functional properties such as time and memory limit exceeded errors.
+I took a stab at competitive programming, serving as the coach for the Yale ICPC Team. Research-wise, we presented {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef{{< /staticref >}}, the first paper at the top PL/SE conference on competitive programming. Clef can repair challenging incorrect competitive-level programs, including non-functional properties such as time and memory limit exceeded errors.
 
-I received my PhD at Yale University. I am honored to be advised by __Ruzica Piskac__. 
-In the summer 2021 and 2022, I interned at Microsoft Research (MSR) on Large Language Models. I was mentored by __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__. We had a blast.
+I received my PhD at Yale University, advised by __Ruzica Piskac__. 
+In the past two summers, I interned at Microsoft Research (MSR) on Large Language Models. I was mentored by __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__. We had a blast.
