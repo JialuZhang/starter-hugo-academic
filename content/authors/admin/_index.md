@@ -64,7 +64,7 @@ highlight_name: true
 ---
 
 
-I am a researcher specializing in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight new emerging coding chanllenges in this AI Generated Code (AIGC) era. 
+I am a researcher specializing in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight new emerging coding challenges in this AI Generated Code (AIGC) era. 
 
 To enhance the productivity of programmers, we designed {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge{{< /staticref >}}, the first tool that used GPT-3 to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. 
 
