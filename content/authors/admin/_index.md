@@ -63,7 +63,7 @@ email: ''
 highlight_name: true
 ---
 
-<span style="color:red">!! UPDATE !!</span> I am joining <span style="color:red">Waterloo ECE</span> as an assistant professor in Winter 2023. 
+<span style="color:red">!! UPDATE !!</span> I am joining [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/) as an assistant professor in Winter 2023. 
 
 My research interest lies in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
 
