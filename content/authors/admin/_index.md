@@ -63,9 +63,9 @@ email: ''
 highlight_name: true
 ---
 
-<span style="color:red">!! UPDATE !!</span> I am joining Waterloo@ECE as an assistant professor in Winter 2023. 
+<span style="color:red">!! UPDATE !!</span> I am joining <span style="color:red">Waterloo ECE</span> as an assistant professor in Winter 2023. 
 
-I am a researcher specializing in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
+My research interest lies in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
 
 To enhance the productivity of programmers, we designed {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge{{< /staticref >}}, the first tool that used GPT-3 to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. 
 
