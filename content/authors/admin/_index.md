@@ -10,12 +10,12 @@ last_name: Zhang
 superuser: true
 
 # Role/position/tagline
-role: CS PhD Student 
+role: Tenure-Track Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Yale University
-    url: https://cpsc.yale.edu/
+  - name: University of Waterloo
+    url: https://uwaterloo.ca
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in programming languages and software engineering. I focus on automatically preventing, detecting, and repairing crucial errors in programs across different fields such as systems, software engineering and CS education.
@@ -63,6 +63,7 @@ email: ''
 highlight_name: true
 ---
 
+<span style="color:red">!! UPDATE !!</span> I am joining Waterloo@ECE as an assistant professor in Winter 2023. 
 
 I am a researcher specializing in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
 
