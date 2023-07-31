@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jialu.zhang@yale.edu
+    link: "mailto:jialu.zhang@yale.edu"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jialu-zhang-4ab17a126/
