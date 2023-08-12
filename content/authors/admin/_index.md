@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:jialu.zhang@yale.edu"
+    link: "mailto:jialu.zhang@uwaterloo.ca"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jialu-zhang-4ab17a126/
@@ -65,7 +65,7 @@ highlight_name: true
 
 <span style="color:red">!! UPDATE !!</span> I am joining [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/) as an assistant professor in Winter 2023. 
 
-My research interest lies in __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
+My research interest lies in __Programming Languages & Software Engineering__, in particular, __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
 
 To enhance the productivity of programmers, we designed {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge{{< /staticref >}}, the first tool that used GPT-3 to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. 
 
