@@ -73,4 +73,4 @@ In support of CS Education, we developed {{< staticref "uploads/PyDex.pdf" "newt
 
 I took a stab at competitive programming, serving as the coach for the Yale ICPC Team. Research-wise, we  firstly introduced competitive programming to PL/SE community by presenting {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef{{< /staticref >}}. Clef can repair very interesting competitive-level programs, including fixing non-functional property issues such as __time__ and __memory limit exceeded errors__.
 
-I obtained my Ph.D. degree in Computer Science from Yale in 2023, advised by __Ruzica Piskac__. I also spent two wonderful summers at Microsoft Research (MSR) on Large Language Models, working with __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__. 
+I obtained my Ph.D. degree in Computer Science from Yale in 2023, advised by __Ruzica Piskac__. I also spent two wonderful summers at Microsoft Research (MSR), working with __Shuvendu Lahiri__, __Todd Mytkowicz__, __Sumit Gulwani__, __Jose Cambronero__ and __Vu Le__. 
