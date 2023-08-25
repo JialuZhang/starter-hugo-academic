@@ -22,10 +22,9 @@ bio: My research interests lie in programming languages and software engineering
 
 # Interests to show in About widget
 interests:
-  - LLM for Debugging
-  - LLM for CS Education
-  - AI-assisting Programming
-  - Automated Program Repair
+  - Programming Languages
+  - Software Engineering
+  - Automated Feedback Generation for CS Education
 
 # Education to show in About widget
 education:
@@ -65,7 +64,8 @@ highlight_name: true
 
 <span style="color:red">!! UPDATE !!</span> I am joining [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/) as an assistant professor in Winter 2023. 
 
-My research interest lies in __Programming Languages & Software Engineering__, in particular, __Large Language Models (LLM) for Code__. I design the next-generation tool to help programmers better fight emerging coding challenges in this new AI Generated Code (AIGC) era. 
+
+My research interest lies in __Programming Languages & Software Engineering__. I focus on automatically preventing, detecting, and repairing crucial errors in programs in new domains, specifically systems (misconfigurations), collaborative software development (merge conflicts and continuous integration errors), and CS Education (feedback for intro-level and competitive-level programming assignments).
 
 To enhance the productivity of programmers, we designed {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge{{< /staticref >}}, the first tool that used GPT-3 to automatically resolve __300+__ real-world merge conflicts in Microsoft Edge. 
 
@@ -73,4 +73,4 @@ In support of CS Education, we developed {{< staticref "uploads/PyDex.pdf" "newt
 
 I took a stab at competitive programming, serving as the coach for the Yale ICPC Team. Research-wise, we  firstly introduced competitive programming to PL/SE community by presenting {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef{{< /staticref >}}. Clef can repair very interesting competitive-level programs, including fixing non-functional property issues such as __time__ and __memory limit exceeded errors__.
 
-I obtained my Ph.D. degree in Computer Science from Yale in 2023, advised by __Ruzica Piskac__. I also spent my last two summer at Microsoft Research (MSR) on Large Language Models, working with __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__. 
+I obtained my Ph.D. degree in Computer Science from Yale in 2023, advised by __Ruzica Piskac__. I also spent two wonderful summers at Microsoft Research (MSR) on Large Language Models, working with __Shuvendu Lahiri__, __Sumit Gulwani__, and __Jose Cambronero__. 
