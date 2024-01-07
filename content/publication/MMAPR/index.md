@@ -1,12 +1,12 @@
 ---
-title: 'Repairing Bugs in Python Assignments Using Large Language Models'
+title: 'Repairing Bugs in Introductory Python Assignments Using Large Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jose Cambronero
+  - José Cambronero
   - Sumit Gulwani
   - Vu Le
   - Ruzica Piskac
@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 
 
-date: '2022-01-21T00:00:00Z'
+date: '2024-10-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,8 +29,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In Submission
-publication_short: In Submission
+publication: To appear at *OOPSLA 2024*
+publication_short: To appear at *OOPSLA 2024*
 
 abstract: Students often make mistakes on their introductory programming assignments as part of their learning process. Unfortunately, providing custom repairs for these mistakes can require a substantial amount of time and effort from class instructors. Automated program repair (APR) techniques can be used to synthesize such fixes. Prior work has explored the use of symbolic and neural techniques for APR in the education domain. Both types of approaches require either substantial engineering efforts or large amounts of data and training. We propose to use a large language model trained on code, such as Codex, to build an APR system – MMAPR – for introductory Python programming assignments. Our system can fix both syntactic and semantic mistakes by combining multi-modal prompts, iterative querying, test-case-based selection of few-shots, and program chunking. We evaluate MMAPR on 286 real student programs and compare to a baseline built by combining a state-of-the-art Python syntax repair engine, BIFI, and state-of-the-art Python semantic repair engine for student assignments, Refactory. We find that MMAPR can fix more programs and produce smaller patches on average.
 
