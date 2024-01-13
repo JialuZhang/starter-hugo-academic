@@ -64,7 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). I obtained my CS PhD from Yale in 2023, advised by __Ruzica Piskac__. I had a blast at Microsoft Research (MSR), working with __Shuvendu Lahiri__, __Sumit Gulwani__, __Jose Cambronero__, __Todd Mytkowicz__ and __Vu Le__. I also served as the coach for the Yale ICPC Team.
+I am an incoming Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). I obtained my CS PhD from Yale in 2023, advised by __Ruzica Piskac__. I had a blast at Microsoft Research (MSR), working with __Shuvendu Lahiri__, __Sumit Gulwani__, __Jose Cambronero__, __Todd Mytkowicz__ and __Vu Le__. I also served as the coach for the Yale ICPC Team.
 
 I am looking for __3+__ highly self-motivated Master, PhD, and remote interns in Fall 2024. If you are excited about LLM and PL/SE research, send me an email to initiate exciting projects together!
 
