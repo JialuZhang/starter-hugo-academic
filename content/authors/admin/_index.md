@@ -66,11 +66,14 @@ highlight_name: true
 
 I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). I obtained my CS PhD from Yale in 2023, advised by __Ruzica Piskac__. I spent wonderful time at Microsoft Research (MSR), working with __Shuvendu Lahiri__, __Sumit Gulwani__, __Jose Cambronero__, __Todd Mytkowicz__and __Vu Le__. I served as the coach for the Yale ICPC Team.
 
-I am looking for __3+__ highly self-motivated Master, PhD and remote interns who are excited about LLM and PL/SE research. Send me an email to initate many more exciting projects together!
+I am looking for __3+__ highly self-motivated Master, PhD and remote interns who are excited about LLM and PL/SE research. Send me an email to initate exciting projects together!
 
-<span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} is accepted at __OOPSLA 2024__! Powered by Codex, PyDex is the first tool to be able to repair both syntactic and semantic errors in real-world students' Python programs.
+<span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} is accepted at __OOPSLA 2024__! Powered by Codex, PyDex is the first tool to be able to repair __both syntactic and semantic errors__ in real-world students' Python programming assignments.
 
+My research combines __Large Languge Models (LLM), Programming Languages and Software Engineering__ to develop practical tools for automatically preventing, detecting, and repairing crucial errors in programs, with minimum to no human effort. For example:
 
-My research combines __Large Languge Models, Programming Languages and Software Engineering__ to develop practical tools for automatically preventing, detecting, and repairing crucial errors in programs, with minimum to no human effort. 
-- For example, {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge{{< /staticref >}}: automatically resolved __300+__ real-world merge conflicts in Microsoft Edge, currently under productization.
+- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE 2022){{< /staticref >}}: first paper on competitive programming in the PL/SE community, able to automatically repair very interesting but challenging competitive-level programs.
 
+- {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge (ISSTA 2022){{< /staticref >}}: using GPT-3, automatically resolved __300+__ real-world merge conflicts in Microsoft Edge (under productization).
+
+- {{< staticref "uploads/OOPSLA2021.pdf" "newtab" >}}ConfigX (OOPSLA 2021){{< /staticref >}}: analyzing the semantics of system source code using customized static analysis, detected 2233 real silent misconfigurations in Apache, VSFTPD and PostgreSQL.
