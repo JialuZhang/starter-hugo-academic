@@ -64,15 +64,15 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). I obtained my CS PhD from Yale in 2023, advised by __Ruzica Piskac__. I spent wonderful time at Microsoft Research (MSR), working with __Shuvendu Lahiri__, __Sumit Gulwani__, __Jose Cambronero__, __Todd Mytkowicz__ and __Vu Le__. I also served as the coach for the Yale ICPC Team.
+I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). I obtained my CS PhD from Yale in 2023, advised by __Ruzica Piskac__. I spent a wonderful time at Microsoft Research (MSR), working with __Shuvendu Lahiri__, __Sumit Gulwani__, __Jose Cambronero__, __Todd Mytkowicz__ and __Vu Le__. I also served as the coach for the Yale ICPC Team.
 
-I am looking for __3+__ highly self-motivated Master, PhD and remote interns who are excited about LLM and PL/SE research. Send me an email to initate exciting projects together!
+I am looking for __3+__ highly self-motivated Master, PhD, and remote interns in Fall 2024. If you are excited about LLM and PL/SE research, send me an email to initiate exciting projects together!
 
-<span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} is accepted at __OOPSLA 2024__! Powered by Codex, in the first time an automated tool can repair both __syntactic__ and __semantic__ errors in real-world students' Python programming assignments.
+<span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} is accepted at __OOPSLA 2024__! Powered by Codex, for the first time an automated tool can repair both __syntactic and semantic__ errors in real-world students' Python programming assignments.
 
-My research combines __Large Languge Models (LLM)__, __Programming Languages__ and __Software Engineering__ to develop practical tools for automatically preventing, detecting, and repairing crucial errors in programs, with minimum to no human effort. For example:
+My research combines __Large Language Models (LLM)__, __Programming Languages__ and __Software Engineering__ to develop practical tools for automatically preventing, detecting, and repairing crucial errors in programs, with minimum to no human effort. For example:
 
-- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE 2022){{< /staticref >}}: first competitive programming related paper in the PL/SE community, able to automatically repair very interesting and challenging competitive-level programs.
+- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE 2022){{< /staticref >}}: first published paper in the PL/SE community on competitive programming, able to automatically repair very interesting and challenging competitive-level programs.
 
 - {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge (ISSTA 2022){{< /staticref >}}: using GPT-3, automatically resolved __300+__ real-world merge conflicts in Microsoft Edge (__currently under productization__).
 
