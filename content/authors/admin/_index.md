@@ -71,8 +71,6 @@ I am looking for __3+__ highly self-motivated Master, PhD and remote interns who
 <span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} is accepted at __OOPSLA 2024__! Powered by Codex, PyDex is the first tool to be able to repair both syntactic and semantic errors in real-world students' Python programs.
 
 
-My research interest lies in __Programming Languages & Software Engineering__. I focus on automatically preventing, detecting, and repairing crucial errors in programs in new domains, specifically systems (misconfigurations), collaborative software development (merge conflicts and continuous integration errors), and CS Education (feedback for intro-level and competitive-level programming assignments).
-
 My research combines __Large Languge Models, Programming Languages and Software Engineering__ to develop practical tools for automatically preventing, detecting, and repairing crucial errors in programs, with minimum to no human effort. 
 - For example, {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge{{< /staticref >}}: automatically resolved __300+__ real-world merge conflicts in Microsoft Edge, currently under productization.
 
