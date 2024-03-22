@@ -50,7 +50,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jialu-zhang-4ab17a126/
   - icon: "google-scholar"
-    icon_pack: "ai"
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=wjOVXi0AAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
