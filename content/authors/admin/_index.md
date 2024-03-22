@@ -49,6 +49,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jialu-zhang-4ab17a126/
+  - icon: "google-scholar"
+    icon_pack: "ai"
+    URL: "https://scholar.google.com/citations?user=wjOVXi0AAAAJ&hl=en"
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
