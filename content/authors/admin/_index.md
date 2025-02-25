@@ -75,9 +75,9 @@ Hiring: I am actively seeking __2+__ Masters, PhDs, and interns. If you're excit
 
 Featured AI/LLM Projects:
 
-- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE){{< /staticref >}}: LLM-powered merge conflict resolution. One of the first works leveraging GPT-3 for automated software engineering, resolving 300+ real-world merge conflicts in Microsoft Edge. Currently under productization.
+- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Gmerge (ASE){{< /staticref >}}: LLM-powered merge conflict resolution. One of the first works leveraging GPT-3 for automated software engineering, resolving 300+ real-world merge conflicts in Microsoft Edge. Currently under productization.
 
 - {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex (OOPSLA){{< /staticref >}}: First fully automated tool for repairing both syntactic and semantic errors in Python programming assignments. This research contributes to AI-powered code analysis and program repair, relevant for AI-driven tutoring systems (e.g., OpenAI’s Codex for Education).
 
-- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE 2022){{< /staticref >}}: First PL/SE paper on AI-assisted competitive programming. Clef automatically repairs highly complex competitive-level code. 
+- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE){{< /staticref >}}: First PL/SE paper on AI-assisted competitive programming. Clef automatically repairs highly complex competitive-level code. 
 
