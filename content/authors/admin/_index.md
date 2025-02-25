@@ -22,11 +22,9 @@ bio: My research interests lie in programming languages and software engineering
 
 # Interests to show in About widget
 interests:
-  - Machine-Aided Programming
-  - Automated Feedback Generation for CS Education
-  - Programming Languages
-  - Software Engineering
-  
+  - LLMs for Code 
+  - AI-assisted Programming 
+  - Automated Software Engineering
 
 # Education to show in About widget
 education:
@@ -69,17 +67,17 @@ highlight_name: true
 
 I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). My research focuses on AI for programming, LLM-powered software development, and automated debugging. I obtained my CS PhD from Yale in 2023, advised by Ruzica Piskac. I have worked with the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) and [PROSE](https://www.microsoft.com/en-us/research/group/prose/) teams at Microsoft Research (MSR), collaborating with Shuvendu Lahiri, Sumit Gulwani, Jose Cambronero, Todd Mytkowicz, and Vu Le. 
 
-Hiring: I am actively seeking __2+__ highly motivated Masters, PhDs, and interns. If you're excited about LLMs for programming, AI-driven debugging, or intelligent code assistants, email me!
+Hiring: I am actively seeking __2+__ Masters, PhDs, and interns. If you're excited about LLMs for programming, AI-driven debugging, or intelligent code assistants, email me!
 
 
 <span style="color:red">!! Industry Collaborations !!</span> I am open to industry opportunities in AI-assisted software development, debugging, and program analysis. If you're working on cutting-edge AI and LLM research, let’s connect!
 
-<span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} to appear at __OOPSLA 2024__! For the first time, a fully automated tool to repair both __syntactic and semantic__ errors in real-world students' Python programming assignments.
 
-My research combines __Large Language Models (LLM)__, __Programming Languages__ and __Software Engineering__ to develop practical tools for automatically preventing, detecting, and repairing crucial errors in programs, with minimum to no human effort. Check it out:
+Featured AI/LLM Projects:
 
-- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE 2022){{< /staticref >}}: first paper in the PL/SE community on competitive programming, able to automatically repair very interesting and challenging competitive-level programs.
+- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE){{< /staticref >}}: LLM-powered merge conflict resolution. One of the first works leveraging GPT-3 for automated software engineering, resolving 300+ real-world merge conflicts in Microsoft Edge. Currently under productization.
 
-- {{< staticref "uploads/ISSTA2022.pdf" "newtab" >}}Gmerge (ISSTA 2022){{< /staticref >}}: using GPT-3, automatically resolved __300+__ real-world merge conflicts in Microsoft Edge (__currently under productization__).
+- {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex (OOPSLA){{< /staticref >}}: First fully automated tool for repairing both syntactic and semantic errors in Python programming assignments. This research contributes to AI-powered code analysis and program repair, relevant for AI-driven tutoring systems (e.g., OpenAI’s Codex for Education).
 
-- {{< staticref "uploads/OOPSLA2021.pdf" "newtab" >}}ConfigX (OOPSLA 2021){{< /staticref >}}: analyzing the semantics of system source code using customized static analysis, detected 2233 real silent misconfigurations in __Apache, VSFTPD and PostgreSQL__.
+- {{< staticref "uploads/ASE2022.pdf" "newtab" >}}Clef (ASE 2022){{< /staticref >}}: First PL/SE paper on AI-assisted competitive programming. Clef automatically repairs highly complex competitive-level code. 
+
