@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). My research focuses on AI for programming, LLM-powered software development, and automated debugging. I obtained my CS PhD from Yale in 2023, advised by Ruzica Piskac. I have worked with the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) and [PROSE](https://www.microsoft.com/en-us/research/group/prose/) teams at Microsoft Research (MSR), collaborating with Shuvendu Lahiri, Sumit Gulwani, Jose Cambronero, Todd Mytkowicz, and Vu Le. 
+I am a Tenure-Track Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). My research focuses on AI for programming, LLM-powered software development, and automated debugging. I obtained my CS PhD from Yale in 2023, advised by Ruzica Piskac. I have worked with the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) and [PROSE](https://www.microsoft.com/en-us/research/group/prose/) teams at Microsoft Research (MSR), collaborating with Shuvendu Lahiri, Sumit Gulwani, Jose Cambronero, Todd Mytkowicz, and Vu Le. 
 
 Hiring: I am actively seeking __2+__ Masters, PhDs, and interns. If you're excited about LLMs for programming, AI-driven debugging, or intelligent code assistants, email me!
 
