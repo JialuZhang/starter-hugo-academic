@@ -69,10 +69,10 @@ highlight_name: true
 
 I am an Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). My research focuses on AI for programming, LLM-powered software development, and automated debugging. I obtained my CS PhD from Yale in 2023, advised by Ruzica Piskac. I have worked with the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) and [PROSE](https://www.microsoft.com/en-us/research/group/prose/) teams at Microsoft Research (MSR), collaborating with Shuvendu Lahiri, Sumit Gulwani, Jose Cambronero, Todd Mytkowicz, and Vu Le. 
 
-Hiring: I am actively seeking __2+__ highly motivated Master’s, PhD students, and interns to work on LLMs for code. If you're excited about LLMs for programming, AI-driven debugging, or intelligent code assistants, email me!
+Hiring: I am actively seeking __2+__ highly motivated Masters, PhDs, and interns. If you're excited about LLMs for programming, AI-driven debugging, or intelligent code assistants, email me!
 
-Industry Collaborations: I am open to industry opportunities and collaborations in AI-assisted software development, debugging, and program analysis. If you're working on cutting-edge AI/LLM research in these areas, let's connect!
 
+<span style="color:red">!! Industry Collaborations !!</span> I am open to industry opportunities in AI-assisted software development, debugging, and program analysis. If you're working on cutting-edge AI and LLM research, let’s connect!
 
 <span style="color:red">!! NEWS !!</span> {{< staticref "uploads/PyDex.pdf" "newtab" >}}PyDex{{< /staticref >}} to appear at __OOPSLA 2024__! For the first time, a fully automated tool to repair both __syntactic and semantic__ errors in real-world students' Python programming assignments.
 
