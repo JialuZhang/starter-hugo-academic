@@ -44,14 +44,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.cs.yale.edu/homes/piskac/papers/2021ZhangETALConfigX.pdf'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3485517'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=Ci8earoRIzE&t=488s'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
