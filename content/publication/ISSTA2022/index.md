@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.microsoft.com/en-us/research/uploads/prod/2022/07/issta22-merge-conflicts-llm.pdf'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3533767.3534396'
 url_code: ''
 url_dataset: ''
 url_poster: ''
