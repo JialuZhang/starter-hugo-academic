@@ -18,9 +18,7 @@ organizations:
     url: https://uwaterloo.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My academic work is in software engineering and programming education. It focuses
-on methods and tools that help students and developers understand, test, and
-improve programs.
+bio: "My academic work is in software engineering and programming education. It focuses on methods and tools that help students and developers understand, test, and improve programs."
 
 # Interests to show in About widget
 interests:
@@ -65,7 +63,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a Tenure-Track Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). My research focuses on AI for programming, LLM-powered software development, and automated debugging. I obtained my CS PhD from Yale in 2023, advised by Ruzica Piskac. I have worked with the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) and [PROSE](https://www.microsoft.com/en-us/research/group/prose/) teams at Microsoft Research (MSR), collaborating with Shuvendu Lahiri, Sumit Gulwani, Jose Cambronero, Todd Mytkowicz, and Vu Le. 
+I am a Tenure-Track Assistant Professor at [Waterloo ECE](https://uwaterloo.ca/electrical-computer-engineering/). I obtained my CS PhD from Yale in 2023, advised by Ruzica Piskac. My research focuses on software engineering and programming educationg. It focuses
+on methods and tools that help students and developers understand, test, and
+improve programs.
 
 Hiring: I am actively seeking __2+__ Masters, PhDs, and interns. If you're excited about software engineering and programming education, email me!
 
